@@ -1,7 +1,7 @@
 # iSA863
 Genome-scale metabolic model of Staphylococcus aureus USA300_FPR3757 (iSA863)
 
-This is an updated and comprehensive genome-scale metabolic model of the methicillin-resistant human pathogen S. aureus  USA300_FPR3757. This repository contains necessary input files and scripts to simulate Flus Balance Analysis (FBA), Flux Variability Analysis (FVA), Essentiality Analysis, Growmatch and other relevant optimization tool on the model in General Algebraic Modeling System (GAMS). 
+This is an updated and comprehensive genome-scale metabolic model of the methicillin-resistant human pathogen S. aureus  USA300_FPR3757. This repository contains necessary input files and scripts to simulate Flux Balance Analysis (FBA), Flux Variability Analysis (FVA), Essentiality Analysis, Growmatch and other relevant optimization tool on the model in General Algebraic Modeling System (GAMS). 
 
 Steps to follow when running a GAMS code:
 
